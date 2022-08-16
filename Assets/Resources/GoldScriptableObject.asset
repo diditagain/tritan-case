@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cfa6e6d39e9fcac4a83be90f48e92ad7, type: 3}
+  m_Name: GoldScriptableObject
+  m_EditorClassIdentifier: 
+  _collectibleBody: {fileID: 6500204642667742666, guid: 8e97111a15ebde64f80f2b6f62cbdd1e, type: 3}
+  _collectibleType: 1
+  _value: 5
+  _name: Gold
+  _description: Standard Collectible
